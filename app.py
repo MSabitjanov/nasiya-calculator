@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.set_page_config(page_title="Nasiya calculator", page_icon="🧮")
 st.title("🧮 Muddatli to`lovni hisoblash")
 
 st.markdown("<br>", unsafe_allow_html=True)
